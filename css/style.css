@@ -367,7 +367,7 @@
 .portfolio-image .block-2 .box {
   background-color: red;
   width: 100%;
-  height: 310px;
+  height: 350px;
   overflow: hidden;
 }
 .portfolio-image .block-1 .box:hover .box-back,
@@ -378,7 +378,7 @@
 .portfolio-image .block-1 .box-back,
 .portfolio-image .block-2 .box-back {
   width: 100%;
-  height: 280px;
+  height: 200%;
   background-color: rgba(0, 12, 88, 0.5);
   position: relative;
   overflow: hidden;
